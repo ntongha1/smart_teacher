@@ -38,7 +38,8 @@ def get_short_summary(video_id):
     data = ' '.join(data.split()[:512])
 
     response = client.invoke_endpoint(
-        EndpointName='sample-endpoint-DFDE1C3C-0B54-45EB-A6A6-0D0B6C77B266-1',
+        # add your AWS sagemaker endpoint below
+        EndpointName='sample-endpoint-DFDE1C3C-XXXX-XXXX-XXXX-XXXX6C77XXXX-1',
         Body=data,
         ContentType='text/plain',
         Accept='text/plain'
