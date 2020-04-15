@@ -16,7 +16,7 @@ We also generate smart notes and summary for the video. Our smart notes also pro
 
 # Architecture
 
-![alt text](https://raw.githubusercontent.com/sumanthreddym/smart_teacher/edit/master/Architecture.png)
+![alt text](https://github.com/sumanthreddym/smart_teacher/blob/master/Architecture.png)
 
 # Steps to test the plugin:
 
