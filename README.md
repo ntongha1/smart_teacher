@@ -14,9 +14,7 @@ We have built a web browser extension that automatically generates a quiz and sm
 
 We also generate smart notes and summary for the video. Our smart notes also provide meanings and examples for certain key words in the notes so that a user can easily understand the overall content of the notes. User can also click on any sentence in the notes to navigate to the point in the video from where the concept summarized in the sentence is explained.
 
-# instructions
-
-Steps to test the plugin:
+# Steps to test the plugin:
 
 1. Download/Clone both the folder SmartTeacherPlugin from the Github Repository.
 2. Open Chrome web browser. 
