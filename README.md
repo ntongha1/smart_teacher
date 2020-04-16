@@ -31,3 +31,14 @@ We also generate smart notes and summary for the video. Our smart notes also pro
 9. Browse an educational video. The plugin will automatically generate smart quiz and smart notes.
 
 Backend is already deployed on an EC2 instance. You don't have to deploy backend to test the plugin.
+
+# Product Screenshots:
+
+# Smart Quiz:
+![alt text](https://github.com/sumanthreddym/smart_teacher/blob/master/sample_output/smart_quiz.png)
+
+# Smart Notes:
+![alt text](https://github.com/sumanthreddym/smart_teacher/blob/master/sample_output/smart_notes.png)
+
+# Smart Quiz Report:
+![alt text](https://github.com/sumanthreddym/smart_teacher/blob/master/sample_output/smart_quiz_result.png)
