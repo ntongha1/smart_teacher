@@ -40,3 +40,6 @@ Backend is already deployed on an EC2 instance. You don't have to deploy backend
 
 # Smart Quiz Report:
 ![alt text](https://github.com/sumanthreddym/smart_teacher/blob/master/sample_output/smart_quiz_result.png)
+
+# Smart Teacher Plugin Popup:
+![alt text](https://github.com/sumanthreddym/smart_teacher/blob/master/sample_output/Extension_PopUp.png)
