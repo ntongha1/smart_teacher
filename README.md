@@ -16,19 +16,28 @@ We also generate smart notes and summary for the video. Our smart notes also pro
 
 ![alt text](https://github.com/sumanthreddym/smart_teacher/blob/master/Architecture.png)
 
-# Steps to test the plugin:
+# Steps to test the project:
 
-1. Download/Clone both the folder SmartTeacherPlugin from the Github Repository.
+Steps to serve flask app(Backend):
+
+NOTE: Make sure that you have installed all of the python packages/dependencies listed below:
+boto3, aws-cli, flask, flask_cors, nltk.corpus, urllib, nltk.tokenize, gensim, youtube_dl, punctuator, requests, nltk.tag
+1. Download/Clone the folder SmartTeacherBackend from the Github Repository.
+2. cd to SmartTeacherBackend folder on your machine and run api.py. This will serve Flask app in development mode.
+
+Steps to download and install the plugin:
+1. Download/Clone the folder SmartTeacherPlugin from the Github Repository.
 2. Open Chrome web browser. 
 3. In browser's search bar, type chrome://extensions/
 4. In the extenstions page, click on 'developer mode' at the top right corner of the page.
 5. Click on the 'Load Unpacked' button.
-6. Choose the folder SmartTeacherPlugin/
-7. After the browser plugin is installed successfully, open youtube.
-8. Click on the plugin icon next to the browser's search bar. Click on Enable Smart Quizzer button. 
-9. Browse an educational video. The plugin will automatically generate smart quiz and smart notes.
+6. Choose the folder 'SmartTeacherPlugin/' to install Smart Teacher Plugin on your browser.
 
-Backend is already deployed on an EC2 instance. You don't have to deploy backend to test the plugin.
+Finally, follow the steps mentioned below to test the project:
+1. Open youtube on your chrome web browser.
+2. Click on the plugin icon next to the browser's search bar. Click on Enable Smart Quizzer button. 
+3. Browse an educational video. The plugin will automatically generate smart quiz and smart notes.
+
 
 # Product Screenshots:
 
