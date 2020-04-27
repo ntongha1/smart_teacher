@@ -28,5 +28,3 @@ def speech_to_text(job_name,job_uri):
 
     print(status)
     # if status['TranscriptionJob']['TranscriptionJobStatus']
-
-speech_to_text("job_name_zume", "https://addnv.s3.amazonaws.com/videos/fossils.wav")
